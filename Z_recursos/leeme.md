@@ -2,5 +2,9 @@
 ![la tarjeta](card.jpg)
 
 ## Ejemplo Un Dialogo de Alerta
-![la tarjeta](dialogo.jpg)
-![la tarjeta](dialogor.jpg)
+![El dialogo](dialogo.jpg)
+![La alerta](dialogor.jpg)
+
+## Ejemplo Lista de alerta
+![La lista](lista.jpg)
+![La alerta](listar.jpg)
