@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:balderramacurso/Mis_widgets/mi_tarjeta.dart';
+//import 'package:balderramacurso/Mis_widgets/mi_tarjeta.dart';
+import 'package:balderramacurso/Mis_widgets/dialogo_acerca_de.dart';
 
 const Color darkBlue = Color(0xFF12202F);
 void main() => runApp(const MiTarjeta());
@@ -18,7 +19,9 @@ class MiTarjeta extends StatelessWidget {
           title: const Text('Flutter Balderrama'),
           centerTitle: true,
         ),
-        body: const LaTarjeta(),
+
+        // body: const LaTarjeta(),
+        body: const DialogoAcercaDe(),
       ),
     );
   }
